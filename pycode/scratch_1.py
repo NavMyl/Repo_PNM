@@ -4,7 +4,7 @@ import datetime
 
 
 
-conn = pyodbc.connect("DRIVER={SQL Server};SERVER=USVDCVMSQLDEV03\INST02;UID=ETLUSER.GDIM;PWD=eTLu$@3r;DATABASE=EDWApac")
+conn = pyodbc.connect("DRIVER={SQL Server};SERVER=;UID=;PWD=;DATABASE=EDWApac")
 
 cur=conn.cursor()
 
