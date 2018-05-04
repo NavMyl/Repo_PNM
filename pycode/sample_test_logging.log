@@ -1,0 +1,16 @@
+2018-04-24 15:30:08,484:DEBUG:40:	logging_sample.py: __main__
+2018-04-24 15:30:08,485:DEBUG:40:	logging_sample.py: __main__
+2018-04-24 15:30:08,485:ERROR:divide by zero not valid:	logging_sample.py: __main__
+2018-04-24 15:30:08,485:DEBUG:None:	logging_sample.py: __main__
+2018-04-24 15:30:40,951:DEBUG:5:	logging_sample.py: __main__
+2018-04-24 15:30:40,952:DEBUG:5:	logging_sample.py: __main__
+2018-04-24 15:30:40,952:ERROR:divide by zero not valid:	logging_sample.py: __main__
+2018-04-24 15:30:40,952:DEBUG:None:	logging_sample.py: __main__
+2018-04-24 15:32:00,950:ERROR:divide by zero not valid:	logging_sample.py: __main__
+Traceback (most recent call last):
+  File "C:/Users/Naveen.Mylarappa/.PyCharmCE2017.2/config/scratches/logging_sample.py", line 43, in div
+    result = x/y
+ZeroDivisionError: division by zero
+2018-04-24 15:32:00,951:DEBUG:None:	logging_sample.py: __main__
+2018-04-24 15:32:00,951:DEBUG:5:	logging_sample.py: __main__
+2018-04-24 15:32:00,951:DEBUG:5:	logging_sample.py: __main__

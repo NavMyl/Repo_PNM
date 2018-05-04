@@ -1,0 +1,3 @@
+2018-04-23 13:00:06,011	INFO -- Logging_Format_test.py:15 -- Load Done - Entity TEST AI Done
+2018-04-23 13:00:19,070	INFO -- Logging_Format_test.py:15 -- Load Done - Entity TEST AI Done
+2018-04-23 13:00:19,071	ERROR -- Logging_Format_test.py:16 --  ERROR -- > JSON element () has no destination 
